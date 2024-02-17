@@ -35,3 +35,12 @@ class MyHome extends StatelessWidget {
 // 1 - filename = demo 
 // 2 - folder = contact 
 // 3 - red container with welcome text white color , center 
+
+
+
+
+// git add .
+
+// git commit -m "whatever"
+
+// git push
