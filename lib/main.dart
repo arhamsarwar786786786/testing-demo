@@ -21,7 +21,7 @@ class MyHome extends StatelessWidget {
     return MaterialApp(debugShowCheckedModeBanner: false,
       theme: ThemeData(
         // primarySwatch: Colors.orange,
-        fontFamily: "jost"
+        // fontFamily: "jost"
       ),
       // home: FavouriteScreen(),
       // home: HomeScreen(),
